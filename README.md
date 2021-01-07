@@ -1,4 +1,4 @@
-# Travelling_Salesman_Problem
+# Travelling Salesman Problem
 School project wich aims to implement different types of algorithm in order to solve the Travelling Salesman Problem. It also includes performance analysis in report.
 
 For more informations, please read the [subject](https://github.com/maximenrb/Travelling_Salesman_Problem/blob/master/Final_project.pdf) and the [report](https://github.com/maximenrb/Travelling_Salesman_Problem/blob/master/Report/Report.pdf)
