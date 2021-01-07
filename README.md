@@ -1,7 +1,7 @@
 # Travelling Salesman Problem
 School project wich aims to implement different types of algorithm in order to solve the Travelling Salesman Problem. It also includes performance analysis in report.
 
-For more informations, please read the [subject](https://github.com/maximenrb/Travelling_Salesman_Problem/blob/master/Final_project.pdf) and the [report](https://github.com/maximenrb/Travelling_Salesman_Problem/blob/master/Report/Report.pdf)
+For more informations, please read the [subject](https://github.com/maximenrb/Travelling_Salesman_Problem/blob/master/Final_project.pdf) and the [report](https://github.com/maximenrb/Travelling_Salesman_Problem/blob/master/Report/Report.pdf). You can also read the [GRASP](https://github.com/maximenrb/Travelling_Salesman_Problem/blob/master/Grasp.pdf) document for more information.
 
 A README is available in each algorithm source folder. Click on the links below for direct access:
 
