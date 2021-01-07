@@ -21,17 +21,26 @@ $ make
 
 ## Execute
 
-In this directory, do :
+* In this directory, do :
 ```bash
 $ ./grasp_algorithm
 ```
 	
-
-Name of the instance will be ask, enter it without extension. Ex: 
+* Name of the instance will be ask, enter it without extension. Ex: 
 ```bash
 Enter instance name (without extension) : 11
 ```
-	
+
+* Rate number will be ask (alpha), it's a number between 0 and 1. Ex:
+```bash
+Enter rate number between 0 and 1 (ex: alpha = 0.8) : 0.8
+```
+
+* Max iteration will be ask. Ex:
+```bash
+Enter max iterations : 200
+```
+    
 ## Output
 
  * Program will print : 
