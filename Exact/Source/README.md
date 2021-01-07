@@ -16,19 +16,19 @@
 
  * In this directory, simply do :
 ```bash
-    	$ make
+$ make
 ```
 
 ## Execute
 
  * In this directory, do :
 ```bash
-	$ ./exact_algorithm
+$ ./exact_algorithm
 ```
 	
  * Name of the instance will be ask, enter it without extension. Ex: 
 ```bash
-	$ Enter instance name (without extension) : 11
+$ Enter instance name (without extension) : 11
 ```
 	
 ## Output
