@@ -21,13 +21,12 @@ $ make
 
 ## Execute
 
-In this directory, do :
+* In this directory, do :
 ```bash
 $ ./exact_algorithm
-```
-	
+```	
 
-Name of the instance will be ask, enter it without extension. Ex: 
+* Name of the instance will be ask, enter it without extension. Ex: 
 ```bash
 Enter instance name (without extension) : 11
 ```
