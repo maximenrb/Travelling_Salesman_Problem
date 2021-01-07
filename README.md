@@ -2,7 +2,7 @@
 
 ## Authors
 * [maximenrb](https://github.com/maximenrb)
-* Elena Commereuc
+* Eléna Commereuc
 * Léo Pinneau
 * Tanguy Morinière
 
