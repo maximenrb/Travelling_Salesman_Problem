@@ -1,9 +1,6 @@
-TSP - EXACT ALGORITHM
-=====================
+## TSP - EXACT ALGORITHM
 
-
-INSTANCES
----------
+# INSTANCES
 
  * Put instances in the following directory : "../Instances"
  
@@ -15,15 +12,14 @@ INSTANCES
 	Ex: 11.in
 	
 	
-COMPILE
--------
+# COMPILE
 
  * In this directory, simply do :
+```bash
     $ make
+```
 
-
-EXECUTE
--------
+# EXECUTE
 
  * In this directory, do :
 	$ ./exact_algorithm
@@ -32,8 +28,7 @@ EXECUTE
 	Ex: "Enter instance name (without extension) :" 11
 	
 	
-OUTPUT
-------
+# OUTPUT
 
  * Program will print : 
 	- Number of vertices of the instance
@@ -41,6 +36,6 @@ OUTPUT
 	- Find path
 	- Total distance of this path
 	
- * Program will output in a file named "instance_exact.out" in the directory "../Instances" with the following format :
+ * Program will output in a file named `instance_exact.out` in the directory `../Instances` with the following format :
 	- The first one contains the number of the vertices separated by one space, representing in which order the cities should be visited.
 	- The second line should contain the weight of the cycle.
