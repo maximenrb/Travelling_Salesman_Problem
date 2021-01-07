@@ -1,8 +1,8 @@
-# TSP - EXACT ALGORITHM
+# TSP - Exact Algorithm
 
-## INSTANCES
+## Instances
 
- * Put instances in the following directory : "../Instances"
+ * Put instances in the following directory : `../Instances`
  
  * Instances must respect the following format :  
 	- The first line have the number n of vertices.
@@ -12,25 +12,26 @@
 	Ex: 11.in
 	
 	
-## COMPILE
+## Compile
 
  * In this directory, simply do :
 ```bash
-    $ make
+    	$ make
 ```
 
-## EXECUTE
+## Execute
 
  * In this directory, do :
 ```bash
 	$ ./exact_algorithm
 ```
 	
- * Name of the instance will be ask, enter it without extension. 
-	Ex: "Enter instance name (without extension) :" 11
+ * Name of the instance will be ask, enter it without extension. Ex: 
+```bash
+	$ Enter instance name (without extension) : 11
+```
 	
-	
-## OUTPUT
+## Output
 
  * Program will print : 
 	- Number of vertices of the instance
